@@ -1,1 +1,2 @@
-my site make for sample
+# My Python Project
+This repository contains basic Python scripts for learning Git and GitHub.
